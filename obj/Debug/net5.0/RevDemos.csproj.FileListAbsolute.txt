@@ -1,0 +1,16 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/bin/Debug/net5.0/RevDemos
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/bin/Debug/net5.0/RevDemos.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/bin/Debug/net5.0/RevDemos.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/bin/Debug/net5.0/RevDemos.runtimeconfig.dev.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/bin/Debug/net5.0/RevDemos.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/bin/Debug/net5.0/RevDemos.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/refint/RevDemos.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/RevDemos.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/RevDemos/obj/Debug/net5.0/ref/RevDemos.dll
