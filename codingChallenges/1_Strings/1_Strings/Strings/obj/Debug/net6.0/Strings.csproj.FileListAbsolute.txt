@@ -1,0 +1,15 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/bin/Debug/net6.0/Strings
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/bin/Debug/net6.0/Strings.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/bin/Debug/net6.0/Strings.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/bin/Debug/net6.0/Strings.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/bin/Debug/net6.0/Strings.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/refint/Strings.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/Strings.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/071822-dotnet-ext-batch-repo/codingChallenges/1_Strings/1_Strings/Strings/obj/Debug/net6.0/ref/Strings.dll
