@@ -1,0 +1,16 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/bin/Debug/net5.0/RPSGame
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/bin/Debug/net5.0/RPSGame.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/bin/Debug/net5.0/RPSGame.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/bin/Debug/net5.0/RPSGame.runtimeconfig.dev.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/bin/Debug/net5.0/RPSGame.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/bin/Debug/net5.0/RPSGame.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/refint/RPSGame.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/RPSGame.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/SecondDemo/RPSGame/obj/Debug/net5.0/ref/RPSGame.dll
