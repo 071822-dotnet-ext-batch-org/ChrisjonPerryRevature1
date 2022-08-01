@@ -1,0 +1,6 @@
+long[] array = Array.ConvertAll(Console.ReadLine().Split(' '), long.Parse);
+        long sum = array.Sum();
+        long min = array.Min();
+        long max = array.Max();
+        Console.WriteLine($"{sum - max} {sum - min}
+
