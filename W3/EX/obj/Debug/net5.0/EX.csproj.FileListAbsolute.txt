@@ -1,0 +1,16 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/bin/Debug/net5.0/EX
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/bin/Debug/net5.0/EX.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/bin/Debug/net5.0/EX.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/bin/Debug/net5.0/EX.runtimeconfig.dev.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/bin/Debug/net5.0/EX.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/bin/Debug/net5.0/EX.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/refint/EX.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/EX.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/obj/Debug/net5.0/ref/EX.dll

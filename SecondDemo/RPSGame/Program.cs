@@ -6,7 +6,32 @@ namespace RPSGame
     {
         static void Main(string[] args)
         {
-          
+          Players p1 = new Players();
+          p1.Fname="";
+          p1.Lname="Perry";
+          p1.myDoB= new DateTime(1998,10,7);
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         //Welcome message
         Console.WriteLine("Welome to Rock Paper Scissors! \n Your favorite game");
         //instruction to play ... or game flow
@@ -32,14 +57,14 @@ namespace RPSGame
          while(isNamevalid){
          
          Console.WriteLine("what is your name \n Please enter a name with less than 15 characters\n");
-        user1Name = Console.ReadLine();
-        if(user1Name.Length <=15){
+        p1.Fname = Console.ReadLine();
+        if(p1.Fname.Length <=15){
        isNamevalid =false;
        Console.WriteLine("Please enter a name with less than 15 characters ");
        
          }
          
-        Console.WriteLine("Welcome to the Rock paper Scissors\n{0}",user1Name);
+        Console.WriteLine("Welcome to the Rock paper Scissors\n{0}",p1.Fname);
          
         }
          //com wins, user win, number of tie, username, p1 name, p2 name

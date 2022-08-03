@@ -1,0 +1,16 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/bin/Debug/net5.0/P1Project
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/bin/Debug/net5.0/P1Project.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/bin/Debug/net5.0/P1Project.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/bin/Debug/net5.0/P1Project.runtimeconfig.dev.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/bin/Debug/net5.0/P1Project.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/bin/Debug/net5.0/P1Project.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/refint/P1Project.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/P1Project.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W2/P1Project/obj/Debug/net5.0/ref/P1Project.dll

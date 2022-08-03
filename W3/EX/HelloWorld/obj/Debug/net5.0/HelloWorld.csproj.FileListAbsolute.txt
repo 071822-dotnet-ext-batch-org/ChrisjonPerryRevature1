@@ -1,0 +1,16 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/bin/Debug/net5.0/HelloWorld
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W3/EX/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
