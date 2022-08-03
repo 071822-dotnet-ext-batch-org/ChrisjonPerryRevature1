@@ -12,6 +12,14 @@ namespace StringManipulationChallenge
             *
             */
             //when you call a method, you call it with arguments. The args values are held in a variable.
+        Console.WriteLine("Please enter a string");
+        string user1Input = Console.ReadLine();
+       string stringToUpperResult = StringToUpper(userInput1);
+            Console.WriteLine($"{stringToUpperResult}, {userInput1}");
+            Console.WriteLine("Please, enter a string.");
+            string userInput2 = Console.ReadLine();
+            string stringToLowerResult = StringToLower(userInput2);
+            Console.WriteLine(stringToLowerResult);
 
 
         }
@@ -38,7 +46,10 @@ namespace StringManipulationChallenge
         /// <returns></returns>       
         public static string StringToLower(string usersString)
         {
-            throw new NotImplementedException("StringToUpper method not implemented.");
+            //throw new NotImplementedException("StringToUpper method not implemented.");
+
+            string r =usersString.ToLower();
+            return r; 
         }
 
         /// <summary>
@@ -51,7 +62,10 @@ namespace StringManipulationChallenge
         /// <returns></returns>
         public static string StringTrim(string usersStringWithWhiteSpace)
         {
-            throw new NotImplementedException("StringTrim method not implemented.");
+         //throw new NotImplementedException("StringTrim method not implemented.");
+        
+        return usersStringWithWhiteSpace.Trim();
+
         }
 
         /// <summary>
@@ -66,7 +80,7 @@ namespace StringManipulationChallenge
         /// <returns></returns>
         public static string StringSubstring(string x, int firstElement, int lengthOfSubsring)
         {
-            throw new NotImplementedException("StringSubstring method not implemented.");
+            //throw new NotImplementedException("StringSubstring method not implemented.");
         }
 
         /// <summary>
@@ -81,7 +95,7 @@ namespace StringManipulationChallenge
         /// <returns></returns>
         public static int SearchChar(string userInputString, char charUserWants)
         {
-            throw new NotImplementedException("SearchChar method not implemented.");
+            //throw new NotImplementedException("SearchChar method not implemented.");
         }
 
         /// <summary>
@@ -96,7 +110,8 @@ namespace StringManipulationChallenge
         /// <returns></returns>
         public static string ConcatNames(string fName, string lName)
         {
-            throw new NotImplementedException("ConcatNames method not implemented.");
+            //throw new NotImplementedException("ConcatNames method not implemented.");
+
         }
     }//end of program
 }
