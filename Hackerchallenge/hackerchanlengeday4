@@ -1,0 +1,30 @@
+class Result
+{
+
+    /*
+     * Complete the 'dayOfProgrammer' function below.
+     *
+     * The function is expected to return a STRING.
+     * The function accepts INTEGER year as parameter.
+     */
+
+    public static string dayOfProgrammer(int year)
+    {
+    string aleapYear = $"12.09.{year}";
+    string regularYear = $"13.09.{year}";
+    string tranyear = $"26.09.1918";
+    if (year<1918){
+        if (year%4==0){
+        return aleapYear;
+        }
+    return regularYear; 
+    }
+    if (year>1918){
+        if (year%4==0 && year%100!=0){
+        return aleapYear;
+        }
+    return regularYear; 
+    }
+    return "";
+    }
+}
