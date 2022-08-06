@@ -17,7 +17,8 @@ namespace P1Project
         if (isEmpOrMng.Contains("E" )||isEmpOrMng.Contains("e")){
             System.Console.WriteLine("Welcome valued new employee!");
             RegisterUser newEmp = new RegisterUser();
-            newEmp.SetUpUser(); 
+            newEmp.SetUpUser();
+            newEmp.Getimbursement(); 
             }
         
         if (isEmpOrMng.Contains("m")||isEmpOrMng.Contains("M")){
