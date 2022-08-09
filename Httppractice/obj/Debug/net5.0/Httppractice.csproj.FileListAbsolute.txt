@@ -1,0 +1,16 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/bin/Debug/net5.0/Httppractice
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/bin/Debug/net5.0/Httppractice.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/bin/Debug/net5.0/Httppractice.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/bin/Debug/net5.0/Httppractice.runtimeconfig.dev.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/bin/Debug/net5.0/Httppractice.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/bin/Debug/net5.0/Httppractice.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/refint/Httppractice.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/Httppractice.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/Httppractice/obj/Debug/net5.0/ref/Httppractice.dll

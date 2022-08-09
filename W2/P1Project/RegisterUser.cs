@@ -11,13 +11,16 @@ namespace P1Project
     public class RegisterUser
     {
       public List<string> EmpUserName = new List<string>();
-        public List<string> EmpPassword= new List<string>();
-        public List<string> EmpEmail= new List<string>();
-         public List<string> ManagerUserName = new List<string>();
-          public List<string> ManagerPassword = new List<string>();
-          public List<int> ReimbursmentAmount = new List<int>();
+      public List<string> EmpPassword= new List<string>();
+      public List<string> EmpEmail= new List<string>();
+      public List<string> ManagerUserName = new List<string>();
+      public List<string> ManagerPassword = new List<string>();
+      public List<int> ReimbursmentAmount = new List<int>();
+      public List<string> ReasonForImbursement = new List<string>();
+     
+      
         
-
+        //gets user credentials and adds it to list
         public  void SetUpUser(){
         EmployeeClass emp1 = new EmployeeClass();
         System.Console.WriteLine("Please enter a Username");
@@ -31,6 +34,7 @@ namespace P1Project
         EmpPassword.Add( emp1.EmployeePassword);
         
       }
+      //registers manager
       public void SetupManager(){
         ManagerClass mnger1 = new ManagerClass();
         System.Console.WriteLine("Please enter a Username");
@@ -41,29 +45,58 @@ namespace P1Project
          ManagerPassword.Add( mnger1.ManagerPassword);
       }//endofM
 
+        // logs in a returning employee
+        public void LoginEmp(){
+        System.Console.WriteLine("Please enter a username returning employee");
+        var userName = Console.ReadLine();
+       System.Console.WriteLine($"welcome back {userName}");
+       }
+        
+
+      // logs in a returning manager
+      public void loginMAn(){
+        System.Console.WriteLine("Please enter a username returning manager");
+        var ManagerUserName = Console.ReadLine();
+        System.Console.WriteLine($"Welcome back{ManagerUserName}");
+      }
+      
+
+
       public void Getimbursement(){
+      Claimsclass claims = new Claimsclass();
       System.Console.WriteLine("Please enter an amount for Reimbursement");
        int MoneyAmount =Console.Read();
        ReimbursmentAmount.Add(MoneyAmount);
         
-       System.Console.WriteLine("Please select a reason for Reimbursement type Traval for travel expenses \nSoftware/hardware for Software/hardware cost \nor therapy for therapy cost");
-       
+       System.Console.WriteLine("Please select a reason for Reimbursement");
        var reason =Console.ReadLine();
+       System.Console.WriteLine($"The reason for reimbursement is{reason}");
+       ReasonForImbursement.Add(reason);
+
+      }
       
-        if(string.IsNullOrEmpty(reason)){
-          System.Console.WriteLine("Please enter valid reason");
-        } 
-        else {System.Console.WriteLine($"Your reson is{reason}");}
-        }
 
         public void ViewClaims(){
       System.Console.WriteLine("Hello welcome too claims");
-      //display the list of claims claims 
+      
+      //display the list of claims claims
+     
+     for (int i = 0; i < ReimbursmentAmount.Count; i++)
+     {
+      System.Console.WriteLine(ReimbursmentAmount[i]);
+     }
+      
         
         }
 
+        // allows manager to approve or deny a claim
         public void approveClaim(){
-          //prompt 
+          //display claims
+          for (int i = 0; i < ReimbursmentAmount.Count; i++)
+     {
+      System.Console.WriteLine(ReimbursmentAmount[i]);
+     }
+         
         }
         }
-}//endofnamespace
+}
