@@ -17,6 +17,13 @@ namespace P1Project
         //Checks if user is an Employee or a manger
        if(isEmpOrMng.Contains("E")||isEmpOrMng.Contains("e")){
         reg.SetUpUser();
+        System.Console.WriteLine("Please enter 1 to view preview claims or 2 to make a claim.");
+        string toViewOrMakeAClaim = Console.ReadLine();
+        if(toViewOrMakeAClaim.Equals("1")){
+          reg.ViewClaims();
+        } else if(toViewOrMakeAClaim.Equals("2")){
+          reg.Getimbursement();
+        }
        }
          
          if(isEmpOrMng.Contains("R")||isEmpOrMng.Contains("r")){

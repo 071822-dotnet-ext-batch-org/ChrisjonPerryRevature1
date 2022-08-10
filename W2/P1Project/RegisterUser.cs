@@ -17,6 +17,8 @@ namespace P1Project
       public List<string> ManagerPassword = new List<string>();
       public List<int> ReimbursmentAmount = new List<int>();
       public List<string> ReasonForImbursement = new List<string>();
+
+      
      
       
         
@@ -94,7 +96,8 @@ namespace P1Project
           //display claims
           for (int i = 0; i < ReimbursmentAmount.Count; i++)
      {
-      System.Console.WriteLine(ReimbursmentAmount[i]);
+       System.Console.WriteLine("Please review each claim and choose which one you want to approve or deny.");
+          System.Console.WriteLine(ReimbursmentAmount[i]);
      }
          
         }

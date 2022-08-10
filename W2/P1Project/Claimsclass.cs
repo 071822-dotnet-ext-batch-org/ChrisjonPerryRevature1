@@ -9,7 +9,7 @@ namespace P1Project
     {
     // list for amoountsfor amounts 
      
-     
+    public int claimId { get; set; } 
     //amount
     public int amountToReimburse { get; set; }
     //denied or approved
