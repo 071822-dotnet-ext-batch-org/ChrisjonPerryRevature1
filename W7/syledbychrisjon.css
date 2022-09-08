@@ -1,0 +1,29 @@
+.h1-class{
+    background-color: rgb(47, 217, 161);
+    width: 200px;
+}
+ul{
+    background-color: aquamarine;
+}
+
+#ulli {
+    background-color: bisque;
+}
+body{
+    background-color: rgba(137, 43, 226, 0.812);
+}
+
+h5,h3 {
+    border: dashed black;
+    border: 5px ;
+}
+
+ol.oli{
+    font-size: large;
+}
+.box {
+    width: 300px;
+    border: dashed lightblue 1px;
+    padding: 20px;
+    margin: 20px;
+}

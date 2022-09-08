@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/ReimbursementApi/ReimbursementApi.csproj": {}
+  },
+  "projects": {
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/businessLayer/businessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/businessLayer/businessLayer.csproj",
+        "projectName": "businessLayer",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/businessLayer/businessLayer.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/businessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj"
+              },
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/repolayer/repolayer.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/repolayer/repolayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/ReimbursementApi/ReimbursementApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/ReimbursementApi/ReimbursementApi.csproj",
+        "projectName": "ReimbursementApi",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/ReimbursementApi/ReimbursementApi.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/ReimbursementApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/businessLayer/businessLayer.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/businessLayer/businessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/repolayer/repolayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/repolayer/repolayer.csproj",
+        "projectName": "repolayer",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/repolayer/repolayer.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/repolayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/project1rev/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

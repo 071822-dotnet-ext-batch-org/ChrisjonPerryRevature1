@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3D9EC82E-EA21-4DD1-AABC-880197CAC5B1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FinalProject1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../FinalProjRevEx/ReimbursementRepo/RepoLayer.cs">
+    <Files>
+      <File FileName="Controllers/ValuesController.cs" Line="29" Column="13" />
+      <File FileName="../ReimbursementRepo/RepoLayer.cs" Line="3" Column="29" />
+      <File FileName="../ReimbursementBusinessLayer/BusiLayer.cs" Line="17" Column="68" />
+      <File FileName="../ReimbursementModels/Request.cs" Line="23" Column="40" />
+      <File FileName="../ReimbursementModels/Employee.cs" Line="22" Column="45" />
+      <File FileName="../ReimbursementModels/Class1.cs" Line="1" Column="1" />
+      <File FileName="../ReimbursementBusinessLayer/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject1" expanded="True">
+            <Node name="FinalProject1" expanded="True" />
+            <Node name="ReimbursementBusinessLayer" expanded="True" />
+            <Node name="ReimbursementModels" expanded="True" />
+            <Node name="ReimbursementRepo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

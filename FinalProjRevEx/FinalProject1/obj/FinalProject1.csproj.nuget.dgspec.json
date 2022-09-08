@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/FinalProject1/FinalProject1.csproj": {}
+  },
+  "projects": {
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/FinalProject1/FinalProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/FinalProject1/FinalProject1.csproj",
+        "projectName": "FinalProject1",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/FinalProject1/FinalProject1.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/FinalProject1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementBusinessLayer/ReimbursementBusinessLayer.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementBusinessLayer/ReimbursementBusinessLayer.csproj"
+              },
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementBusinessLayer/ReimbursementBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementBusinessLayer/ReimbursementBusinessLayer.csproj",
+        "projectName": "ReimbursementBusinessLayer",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementBusinessLayer/ReimbursementBusinessLayer.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementBusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj"
+              },
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementRepo/ReimbursementRepo.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementRepo/ReimbursementRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj",
+        "projectName": "ReimbursementModels",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementRepo/ReimbursementRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementRepo/ReimbursementRepo.csproj",
+        "projectName": "ReimbursementRepo",
+        "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementRepo/ReimbursementRepo.csproj",
+        "packagesPath": "/Users/chrisjonperry/.nuget/packages/",
+        "outputPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementRepo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chrisjonperry/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj": {
+                "projectPath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/FinalProjRevEx/ReimbursementModels/ReimbursementModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

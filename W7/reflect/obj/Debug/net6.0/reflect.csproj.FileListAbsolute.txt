@@ -1,0 +1,15 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/bin/Debug/net6.0/reflect
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/bin/Debug/net6.0/reflect.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/bin/Debug/net6.0/reflect.runtimeconfig.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/bin/Debug/net6.0/reflect.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/bin/Debug/net6.0/reflect.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/refint/reflect.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/reflect.genruntimeconfig.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/W7/reflect/obj/Debug/net6.0/ref/reflect.dll

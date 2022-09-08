@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXnqtdCx/bMbfmB0pIOozafHDa7sXq1VoArvuPZovhM7HmgmbTKB3UEsJ9gyrVtR8ENof1zBs3NlX6YXsAva5A==",
+  "success": true,
+  "projectFilePath": "/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/reimbursemntApilayer/reimbursemntApilayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/chrisjonperry/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/chrisjonperry/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/chrisjonperry/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/chrisjonperry/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/chrisjonperry/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/chrisjonperry/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

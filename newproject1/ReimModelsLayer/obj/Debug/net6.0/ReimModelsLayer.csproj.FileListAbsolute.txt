@@ -1,0 +1,12 @@
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.csproj.AssemblyReference.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.AssemblyInfoInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.AssemblyInfo.cs
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.csproj.CoreCompileInputs.cache
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/bin/Debug/net6.0/ReimModelsLayer.deps.json
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/bin/Debug/net6.0/ReimModelsLayer.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/bin/Debug/net6.0/ReimModelsLayer.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/refint/ReimModelsLayer.dll
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ReimModelsLayer.pdb
+/Users/chrisjonperry/Desktop/AllRevaturestuff/ChrisjonPerryRevature1/newproject1/ReimModelsLayer/obj/Debug/net6.0/ref/ReimModelsLayer.dll
