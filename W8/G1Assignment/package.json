@@ -1,0 +1,14 @@
+{
+  "name": "g1assignment",
+  "version": "1.0.0",
+  "main": "assign1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "chrisnode",
+  "version": "1.0.0",
+  "description": "this is a node demo for chris",
+  "main": "NodeTsDemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc":"tsc"
+  },
+  "author": "chrisjon perry",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
